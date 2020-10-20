@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{936716EF-C547-4243-9271-6691C454541E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Furniture_Store/Concrete_Prod.cs">
+    <Files>
+      <File FileName="Furniture_Store/Program.cs" Line="7" Column="25" />
+      <File FileName="Furniture_Store/ArtDec_Fact.cs" Line="15" Column="1" />
+      <File FileName="Furniture_Store/Modern_Fact.cs" Line="15" Column="1" />
+      <File FileName="Furniture_Store/Vic_Fact.cs" Line="4" Column="41" />
+      <File FileName="Furniture_Store/Concrete_Prod.cs" Line="16" Column="36" />
+      <File FileName="Furniture_Store/Abstract_Prod.cs" Line="1" Column="1" />
+      <File FileName="Furniture_Store/Abstract_Fact.cs" Line="1" Column="1" />
+      <File FileName="Furniture_Store/Abstract_Factory_Client.cs" Line="9" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Furniture_Store" expanded="True">
+            <Node name="Furniture_Store" expanded="True">
+              <Node name="Concrete_Prod.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Furniture__Store PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
